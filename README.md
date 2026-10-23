@@ -109,6 +109,6 @@ smart-bi-agent/
 | Supported Tables | 5+ |
 | Demo Data | 5000+ orders |
 
-## 📝 License
 
-MIT License
+
+
